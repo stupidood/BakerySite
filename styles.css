@@ -2,6 +2,13 @@ body {
     background-color:cornsilk;
 }
 
+.bakery {
+    display: block;
+    margin: auto;
+    width: 50%;
+    height: 50%;
+}
+
 .personalmotto {
     color: cyan;
     text-align: center;
