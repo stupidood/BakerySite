@@ -1,0 +1,129 @@
+body {
+    background-color:cornsilk;
+}
+
+.personalmotto {
+    color: cyan;
+    text-align: center;
+    font-size: 42pt;
+}
+
+.about {
+    font-size: 50pt;
+    color: black;
+    text-align: center;
+}
+
+.about2 {
+    text-align: center;
+    font-size: 24pt;
+}
+
+.about3 {
+    text-align: center;
+    font-size: 30pt;
+    color: indigo;
+}
+
+.eotm {
+    text-align: center;
+    font-size: 32pt;
+    color: goldenrod;
+}
+
+.menu {
+    text-align: center;
+    font-size: 50pt;
+    color: brown;
+}
+
+.faqtitle {
+    text-align: center;
+    color: darkmagenta;
+    font-size: 50pt;
+}
+
+.questions {
+    color: darkslategray;
+    font-size: 34pt;
+}
+
+.answers {
+    color: firebrick;
+    font-size: 33pt;
+}
+
+ul {
+    border: 5px dashed;
+
+    text-align: center;
+    list-style: none;
+    width: 50%;
+    margin: auto;
+    padding-left: 0;
+}
+
+ul li {
+    display: inline-block;
+    font-size: 26pt;
+}
+
+.picoftendou {
+    display: block;
+    margin: auto;
+}
+
+.oikawa2 {
+    display: block;
+    margin: auto;
+}
+
+.bread{
+    font-size: 30pt;
+    text-align: center;
+}
+
+.pic1 {
+    width: 49%;
+    height: 49%;
+    display: block;
+    margin: auto;
+}
+
+.pic2 {
+    width: 49%;
+    height: 49%;
+}
+
+.pic3 {
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin: auto;
+}
+
+.pic4 {
+    display: block;
+    margin: auto;
+    width: 50%;
+    height: 50%;
+}
+
+.pic5 {
+    display: block;
+    margin: auto;
+    width: 45%;
+    height: 40%;
+}
+
+.pic6 {
+    display: block;
+    margin: auto;
+    width: 60%;
+    height: 60%;
+}
+
+.sad {
+    font-size: 20pt;
+    text-align: center;
+}
